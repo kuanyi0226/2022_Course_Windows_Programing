@@ -1,0 +1,14 @@
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW2\HW1_2_Expenses\c34104032_practice_2_1\c34104032_practice_2_1\bin\Debug\c34104032_practice_2_1.exe.config
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW2\HW1_2_Expenses\c34104032_practice_2_1\c34104032_practice_2_1\bin\Debug\c34104032_practice_2_1.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW2\HW1_2_Expenses\c34104032_practice_2_1\c34104032_practice_2_1\bin\Debug\c34104032_practice_2_1.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW2\HW1_2_Expenses\c34104032_practice_2_1\c34104032_practice_2_1\obj\Debug\c34104032_practice_2_1.csprojAssemblyReference.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW2\HW1_2_Expenses\c34104032_practice_2_1\c34104032_practice_2_1\obj\Debug\c34104032_practice_2_1.csproj.CoreCompileInputs.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW2\HW1_2_Expenses\c34104032_practice_2_1\c34104032_practice_2_1\obj\Debug\c34104032_practice_2_1.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW2\HW1_2_Expenses\c34104032_practice_2_1\c34104032_practice_2_1\obj\Debug\c34104032_practice_2_1.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW2\c34104032_practice_2_1\c34104032_practice_2_1\bin\Debug\c34104032_practice_2_1.exe.config
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW2\c34104032_practice_2_1\c34104032_practice_2_1\bin\Debug\c34104032_practice_2_1.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW2\c34104032_practice_2_1\c34104032_practice_2_1\bin\Debug\c34104032_practice_2_1.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW2\c34104032_practice_2_1\c34104032_practice_2_1\obj\Debug\c34104032_practice_2_1.csprojAssemblyReference.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW2\c34104032_practice_2_1\c34104032_practice_2_1\obj\Debug\c34104032_practice_2_1.csproj.CoreCompileInputs.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW2\c34104032_practice_2_1\c34104032_practice_2_1\obj\Debug\c34104032_practice_2_1.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW2\c34104032_practice_2_1\c34104032_practice_2_1\obj\Debug\c34104032_practice_2_1.pdb

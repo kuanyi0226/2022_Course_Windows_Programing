@@ -1,0 +1,14 @@
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計作業\HW1_2_Expenses\HW1_2_Expenses\bin\Debug\HW1_2_Expenses.exe.config
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計作業\HW1_2_Expenses\HW1_2_Expenses\bin\Debug\HW1_2_Expenses.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計作業\HW1_2_Expenses\HW1_2_Expenses\bin\Debug\HW1_2_Expenses.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計作業\HW1_2_Expenses\HW1_2_Expenses\obj\Debug\HW1_2_Expenses.csprojAssemblyReference.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計作業\HW1_2_Expenses\HW1_2_Expenses\obj\Debug\HW1_2_Expenses.csproj.CoreCompileInputs.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計作業\HW1_2_Expenses\HW1_2_Expenses\obj\Debug\HW1_2_Expenses.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計作業\HW1_2_Expenses\HW1_2_Expenses\obj\Debug\HW1_2_Expenses.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計作業\HW1 Expenses\HW1_2_Expenses\HW1_2_Expenses\bin\Debug\HW1_2_Expenses.exe.config
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計作業\HW1 Expenses\HW1_2_Expenses\HW1_2_Expenses\bin\Debug\HW1_2_Expenses.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計作業\HW1 Expenses\HW1_2_Expenses\HW1_2_Expenses\bin\Debug\HW1_2_Expenses.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計作業\HW1 Expenses\HW1_2_Expenses\HW1_2_Expenses\obj\Debug\HW1_2_Expenses.csprojAssemblyReference.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計作業\HW1 Expenses\HW1_2_Expenses\HW1_2_Expenses\obj\Debug\HW1_2_Expenses.csproj.CoreCompileInputs.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計作業\HW1 Expenses\HW1_2_Expenses\HW1_2_Expenses\obj\Debug\HW1_2_Expenses.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計作業\HW1 Expenses\HW1_2_Expenses\HW1_2_Expenses\obj\Debug\HW1_2_Expenses.pdb

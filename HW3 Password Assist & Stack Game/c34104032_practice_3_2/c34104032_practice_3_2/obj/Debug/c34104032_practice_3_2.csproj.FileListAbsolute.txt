@@ -1,0 +1,10 @@
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW3 Password Assist & Stack Game\c34104032_practice_3_2\c34104032_practice_3_2\bin\Debug\c34104032_practice_3_2.exe.config
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW3 Password Assist & Stack Game\c34104032_practice_3_2\c34104032_practice_3_2\bin\Debug\c34104032_practice_3_2.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW3 Password Assist & Stack Game\c34104032_practice_3_2\c34104032_practice_3_2\bin\Debug\c34104032_practice_3_2.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW3 Password Assist & Stack Game\c34104032_practice_3_2\c34104032_practice_3_2\obj\Debug\c34104032_practice_3_2.csprojAssemblyReference.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW3 Password Assist & Stack Game\c34104032_practice_3_2\c34104032_practice_3_2\obj\Debug\c34104032_practice_3_2.Form1.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW3 Password Assist & Stack Game\c34104032_practice_3_2\c34104032_practice_3_2\obj\Debug\c34104032_practice_3_2.Properties.Resources.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW3 Password Assist & Stack Game\c34104032_practice_3_2\c34104032_practice_3_2\obj\Debug\c34104032_practice_3_2.csproj.GenerateResource.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW3 Password Assist & Stack Game\c34104032_practice_3_2\c34104032_practice_3_2\obj\Debug\c34104032_practice_3_2.csproj.CoreCompileInputs.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW3 Password Assist & Stack Game\c34104032_practice_3_2\c34104032_practice_3_2\obj\Debug\c34104032_practice_3_2.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW3 Password Assist & Stack Game\c34104032_practice_3_2\c34104032_practice_3_2\obj\Debug\c34104032_practice_3_2.pdb
