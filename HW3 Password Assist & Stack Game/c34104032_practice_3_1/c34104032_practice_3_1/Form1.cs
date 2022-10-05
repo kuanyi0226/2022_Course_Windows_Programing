@@ -147,7 +147,7 @@ namespace c34104032_practice_3_1
             bool existJudge = false; //判斷列表中是否有與輸入連結一樣的element
             for (int i = 0; i < accountList.Count; i++)
             {
-                if(accountList[i].link == linkBox.Text)
+                if(accountList[i].link == linkBox.Text && accountList[i].user == userBox.Text)
                 {
                     existJudge = true;
                 }
