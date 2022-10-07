@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\c34104032_practice_4_1\c34104032_practice_4_1\bin\Debug\c34104032_practice_4_1.exe.config
+C:\Users\user\Desktop\c34104032_practice_4_1\c34104032_practice_4_1\bin\Debug\c34104032_practice_4_1.exe
+C:\Users\user\Desktop\c34104032_practice_4_1\c34104032_practice_4_1\bin\Debug\c34104032_practice_4_1.pdb
+C:\Users\user\Desktop\c34104032_practice_4_1\c34104032_practice_4_1\obj\Debug\c34104032_practice_4_1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\c34104032_practice_4_1\c34104032_practice_4_1\obj\Debug\c34104032_practice_4_1.Form1.resources
+C:\Users\user\Desktop\c34104032_practice_4_1\c34104032_practice_4_1\obj\Debug\c34104032_practice_4_1.Properties.Resources.resources
+C:\Users\user\Desktop\c34104032_practice_4_1\c34104032_practice_4_1\obj\Debug\c34104032_practice_4_1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\c34104032_practice_4_1\c34104032_practice_4_1\obj\Debug\c34104032_practice_4_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c34104032_practice_4_1\c34104032_practice_4_1\obj\Debug\c34104032_practice_4_1.exe
+C:\Users\user\Desktop\c34104032_practice_4_1\c34104032_practice_4_1\obj\Debug\c34104032_practice_4_1.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW4 Flip Card\c34104032_practice_4_1\c34104032_practice_4_1\bin\Debug\c34104032_practice_4_1.exe.config
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW4 Flip Card\c34104032_practice_4_1\c34104032_practice_4_1\bin\Debug\c34104032_practice_4_1.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW4 Flip Card\c34104032_practice_4_1\c34104032_practice_4_1\bin\Debug\c34104032_practice_4_1.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW4 Flip Card\c34104032_practice_4_1\c34104032_practice_4_1\obj\Debug\c34104032_practice_4_1.csprojAssemblyReference.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW4 Flip Card\c34104032_practice_4_1\c34104032_practice_4_1\obj\Debug\c34104032_practice_4_1.Form1.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW4 Flip Card\c34104032_practice_4_1\c34104032_practice_4_1\obj\Debug\c34104032_practice_4_1.Properties.Resources.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW4 Flip Card\c34104032_practice_4_1\c34104032_practice_4_1\obj\Debug\c34104032_practice_4_1.csproj.GenerateResource.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW4 Flip Card\c34104032_practice_4_1\c34104032_practice_4_1\obj\Debug\c34104032_practice_4_1.csproj.CoreCompileInputs.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW4 Flip Card\c34104032_practice_4_1\c34104032_practice_4_1\obj\Debug\c34104032_practice_4_1.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\HW4 Flip Card\c34104032_practice_4_1\c34104032_practice_4_1\obj\Debug\c34104032_practice_4_1.pdb
