@@ -66,3 +66,13 @@ D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_0
 D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\Timer\bin\Debug\Timer.exe.config
 D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\Timer\obj\Debug\Timer.exe
 D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\Timer\obj\Debug\Timer.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\Timer\bin\Debug\Timer.exe.config
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\Timer\bin\Debug\Timer.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\Timer\bin\Debug\Timer.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\Timer\obj\Debug\Timer.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\Timer\obj\Debug\Timer.pdb

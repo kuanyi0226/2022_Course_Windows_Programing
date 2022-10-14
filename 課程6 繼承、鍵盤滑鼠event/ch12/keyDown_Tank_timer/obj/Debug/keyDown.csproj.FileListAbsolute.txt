@@ -40,3 +40,13 @@ D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\keyD
 D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\keyDown_Tank_timer\obj\Debug\keyDown.Form1.resources
 D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\keyDown_Tank_timer\obj\Debug\keyDown.Properties.Resources.resources
 D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\keyDown_Tank_timer\obj\Debug\keyDown.csproj.GenerateResource.Cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown_Tank_timer\bin\Debug\keyDown.exe.config
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown_Tank_timer\bin\Debug\keyDown.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown_Tank_timer\bin\Debug\keyDown.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown_Tank_timer\obj\Debug\keyDown.csprojAssemblyReference.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown_Tank_timer\obj\Debug\keyDown.Form1.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown_Tank_timer\obj\Debug\keyDown.Properties.Resources.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown_Tank_timer\obj\Debug\keyDown.csproj.GenerateResource.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown_Tank_timer\obj\Debug\keyDown.csproj.CoreCompileInputs.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown_Tank_timer\obj\Debug\keyDown.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown_Tank_timer\obj\Debug\keyDown.pdb

@@ -54,3 +54,13 @@ D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\atm\
 D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\atm\obj\Debug\atm.Form1.resources
 D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\atm\obj\Debug\atm.Properties.Resources.resources
 D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\atm\obj\Debug\atm.csproj.GenerateResource.Cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\atm\bin\Debug\atm.exe.config
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\atm\bin\Debug\atm.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\atm\bin\Debug\atm.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\atm\obj\Debug\atm.csprojAssemblyReference.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\atm\obj\Debug\atm.Form1.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\atm\obj\Debug\atm.Properties.Resources.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\atm\obj\Debug\atm.csproj.GenerateResource.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\atm\obj\Debug\atm.csproj.CoreCompileInputs.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\atm\obj\Debug\atm.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\atm\obj\Debug\atm.pdb

@@ -40,3 +40,13 @@ D:\ncku_school\開課課程\106下學期\正式上課簡報\1070329_05\1070329_t
 D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_06_true\ch12\keyDown\bin\Debug\keyDown.exe.config
 D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_06_true\ch12\keyDown\obj\Debug\keyDown.exe
 D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_06_true\ch12\keyDown\obj\Debug\keyDown.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown\bin\Debug\keyDown.exe.config
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown\bin\Debug\keyDown.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown\bin\Debug\keyDown.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown\obj\Debug\keyDown.csprojAssemblyReference.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown\obj\Debug\keyDown.Form1.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown\obj\Debug\keyDown.Properties.Resources.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown\obj\Debug\keyDown.csproj.GenerateResource.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown\obj\Debug\keyDown.csproj.CoreCompileInputs.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown\obj\Debug\keyDown.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\keyDown\obj\Debug\keyDown.pdb

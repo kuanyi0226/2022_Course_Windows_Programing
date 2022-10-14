@@ -46,3 +46,13 @@ D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\drag
 D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\drag\obj\Debug\drag.Form1.resources
 D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\drag\obj\Debug\drag.Properties.Resources.resources
 D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\drag\obj\Debug\drag.csproj.GenerateResource.Cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\drag\bin\Debug\drag.exe.config
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\drag\bin\Debug\drag.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\drag\bin\Debug\drag.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\drag\obj\Debug\drag.csprojAssemblyReference.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\drag\obj\Debug\drag.Form1.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\drag\obj\Debug\drag.Properties.Resources.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\drag\obj\Debug\drag.csproj.GenerateResource.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\drag\obj\Debug\drag.csproj.CoreCompileInputs.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\drag\obj\Debug\drag.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\drag\obj\Debug\drag.pdb
