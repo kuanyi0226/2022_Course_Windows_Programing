@@ -18,15 +18,7 @@ namespace c34104032_practice_4_1
         }
         
 
-        Image backImage = Image.FromFile(@"..\..\..\pic\" + "card.jpg");
-        Image img01 = Image.FromFile(@"..\..\..\pic\" + "01.jpg");
-        Image img02 = Image.FromFile(@"..\..\..\pic\" + "02.jpg");
-        Image img03 = Image.FromFile(@"..\..\..\pic\" + "03.jpg");
-        Image img04 = Image.FromFile(@"..\..\..\pic\" + "04.jpg");
-        Image img05 = Image.FromFile(@"..\..\..\pic\" + "05.jpg");
-        Image img06 = Image.FromFile(@"..\..\..\pic\" + "06.jpg");
-        Image img07 = Image.FromFile(@"..\..\..\pic\" + "07.jpg");
-        Image img08 = Image.FromFile(@"..\..\..\pic\" + "08.jpg");
+        Image backImage = Image.FromFile(@"..\..\..\pic\" + "card.jpg");    
         const string address1 = "01.jpg";
         const string address2 = "02.jpg";
         const string address3 = "03.jpg";
@@ -312,56 +304,38 @@ namespace c34104032_practice_4_1
             {
                 case 0:
                     return pic00;
-                    break;
                 case 1:
                     return pic01;
-                    break;
                 case 2:
                     return pic02;
-                    break;
                 case 3:
                     return pic03;
-                    break;
                 case 4:
                     return pic10;
-                    break;
                 case 5:
                     return pic11;
-                    break;
                 case 6:
                     return pic12;
-                    break;
                 case 7:
                     return pic13;
-                    break;
                 case 8:
                     return pic20;
-                    break;
                 case 9:
                     return pic21;
-                    break;
                 case 10:
                     return pic22;
-                    break;
                 case 11:
                     return pic23;
-                    break;
                 case 12:
                     return pic30;
-                    break;
                 case 13:
                     return pic31;
-                    break;
                 case 14:
                     return pic32;
-                    break;
                 case 15:
                     return pic33;
-                    break;               
                 default:
                     return pic00;
-                    break;
-
             }
         }
 
