@@ -44,3 +44,13 @@ D:\ncku_school\開課課程\11101_視窗程式\1111014_06\1111014_stu_doc\06_exa
 D:\ncku_school\開課課程\11101_視窗程式\1111014_06\1111014_stu_doc\06_example\private_test_c\use_private_readonly_property_3\use_private\obj\Debug\use_private.csproj.CoreCompileInputs.cache
 D:\ncku_school\開課課程\11101_視窗程式\1111014_06\1111014_stu_doc\06_example\private_test_c\use_private_readonly_property_3\use_private\obj\Debug\use_private.exe
 D:\ncku_school\開課課程\11101_視窗程式\1111014_06\1111014_stu_doc\06_example\private_test_c\use_private_readonly_property_3\use_private\obj\Debug\use_private.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\06_example\private_test_c\use_private_readonly_property_3\use_private\bin\Debug\use_private.exe.config
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\06_example\private_test_c\use_private_readonly_property_3\use_private\bin\Debug\use_private.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\06_example\private_test_c\use_private_readonly_property_3\use_private\bin\Debug\use_private.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\06_example\private_test_c\use_private_readonly_property_3\use_private\obj\Debug\use_private.csprojAssemblyReference.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\06_example\private_test_c\use_private_readonly_property_3\use_private\obj\Debug\use_private.Form1.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\06_example\private_test_c\use_private_readonly_property_3\use_private\obj\Debug\use_private.Properties.Resources.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\06_example\private_test_c\use_private_readonly_property_3\use_private\obj\Debug\use_private.csproj.GenerateResource.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\06_example\private_test_c\use_private_readonly_property_3\use_private\obj\Debug\use_private.csproj.CoreCompileInputs.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\06_example\private_test_c\use_private_readonly_property_3\use_private\obj\Debug\use_private.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\06_example\private_test_c\use_private_readonly_property_3\use_private\obj\Debug\use_private.pdb

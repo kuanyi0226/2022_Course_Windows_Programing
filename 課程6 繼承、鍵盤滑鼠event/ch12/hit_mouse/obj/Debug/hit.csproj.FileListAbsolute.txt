@@ -40,3 +40,13 @@ D:\ncku_school\開課課程\107上學期\正式上課內容\1071016_06\1071016_0
 D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\hit_mouse\bin\Debug\hit.exe.config
 D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\hit_mouse\obj\Debug\hit.exe
 D:\ncku_school\開課課程\108第一學期\1081015_06\1081015_06_true\ch12\hit_mouse\obj\Debug\hit.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\hit_mouse\bin\Debug\hit.exe.config
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\hit_mouse\bin\Debug\hit.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\hit_mouse\bin\Debug\hit.pdb
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\hit_mouse\obj\Debug\hit.csprojAssemblyReference.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\hit_mouse\obj\Debug\hit.Form1.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\hit_mouse\obj\Debug\hit.Properties.Resources.resources
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\hit_mouse\obj\Debug\hit.csproj.GenerateResource.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\hit_mouse\obj\Debug\hit.csproj.CoreCompileInputs.cache
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\hit_mouse\obj\Debug\hit.exe
+C:\Users\KuanYi\Desktop\Programing\C#\視窗程式設計\課程6 繼承、鍵盤滑鼠event\ch12\hit_mouse\obj\Debug\hit.pdb
